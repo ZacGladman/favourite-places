@@ -1,6 +1,6 @@
 import MakePlaceEntry from "./PlaceEntryItem";
 
-const places: PlaceEntryProps[] = [
+const places = [
   {
     entryTitle: "Sacré-Cœur de Montmartre",
     city: "Paris",
